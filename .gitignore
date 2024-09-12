@@ -7,4 +7,4 @@
 banking/migrations*
 donate/migrations*
 .idea*
-nkbank/settings.py
+#nkbank/settings.py
